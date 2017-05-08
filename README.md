@@ -1,5 +1,6 @@
 //https://github.com/Jumbo-WJB/PowerTools/blob/master/PowerUp/PowerUp.ps1利用进行程序可信任路径提权漏洞利用和进行“零变英雄”（低权限可以改高权限运行的文件）漏洞利用
 
+//https://github.com/Jumbo-WJB/PowerTools/blob/master/PowerView/powerview.ps1可以拿来查找域主机周围主机的共享目录
 
 #PowerTools
 
