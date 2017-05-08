@@ -1,3 +1,6 @@
+//https://github.com/Jumbo-WJB/PowerTools/blob/master/PowerUp/PowerUp.ps1利用进行程序可信任路径提权漏洞利用
+
+
 #PowerTools
 
 Veil's PowerTools are a collection of PowerShell projects with a focus
